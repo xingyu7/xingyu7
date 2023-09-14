@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: xingyuliu@outlook.sg / WechatID: ConatusPhil / [Twitter](https://twitter.com/positivismdev)
 - ⚡ I love programming midi music and running book clubs
 
-- ### Latest Posts
+### Latest Posts
 
 - [基本有害的描述性统计：A股投资收益的矛盾](https://positivism.dev/blog/fundamentally-harmful-descriptive-statistics-the-paradox-of-china-stock-investment-returns)
 - [Plotly数据可视化中的剪刀差：社融、CPI、PPI、M2、M1](https://positivism.dev/blog/differentials-inplotly-data-visualization-social-finance-scale-cpi-ppi-m2-m1)
